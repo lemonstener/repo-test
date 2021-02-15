@@ -3,3 +3,11 @@ body{
     color: azure;
     font-size: 2em;
 }
+
+h1{
+    color: red;
+}
+
+p{
+    color: chartreuse;
+}
